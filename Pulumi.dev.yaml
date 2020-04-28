@@ -1,0 +1,4 @@
+config:
+  gcp:project: webicluster
+  gcp:region: us-central1
+  gcp:zone: us-central1
